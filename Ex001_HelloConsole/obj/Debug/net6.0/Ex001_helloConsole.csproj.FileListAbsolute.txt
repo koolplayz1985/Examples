@@ -1,0 +1,15 @@
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\bin\Debug\net6.0\Ex001_helloConsole.exe
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\bin\Debug\net6.0\Ex001_helloConsole.deps.json
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\bin\Debug\net6.0\Ex001_helloConsole.runtimeconfig.json
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\bin\Debug\net6.0\Ex001_helloConsole.dll
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\bin\Debug\net6.0\Ex001_helloConsole.pdb
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\obj\Debug\net6.0\Ex001_helloConsole.csproj.AssemblyReference.cache
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\obj\Debug\net6.0\Ex001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\obj\Debug\net6.0\Ex001_helloConsole.AssemblyInfoInputs.cache
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\obj\Debug\net6.0\Ex001_helloConsole.AssemblyInfo.cs
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\obj\Debug\net6.0\Ex001_helloConsole.csproj.CoreCompileInputs.cache
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\obj\Debug\net6.0\Ex001_helloConsole.dll
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\obj\Debug\net6.0\refint\Ex001_helloConsole.dll
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\obj\Debug\net6.0\Ex001_helloConsole.pdb
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\obj\Debug\net6.0\Ex001_helloConsole.genruntimeconfig.cache
+D:\02.LEARNING\01.QA\03.Знакомство с языками программирования\Lesson_1 (lect)\Repo\Examples\Ex001_helloConsole\obj\Debug\net6.0\ref\Ex001_helloConsole.dll
